@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ben Scholes projects page
 
 You can use the [editor on GitHub](https://github.com/benscholes1/benscholes1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
